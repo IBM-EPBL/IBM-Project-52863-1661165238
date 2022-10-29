@@ -23,5 +23,3 @@ PROJECT PREVIEW:
 • This comparative study is conducted concentrating on the following aspects: modeling inputs, Visualizing the data, modeling methods, and pre-processing techniques. The results provide a comparison of various evaluation metrics of these machine learning techniques and their reliability to predict rainfall by analyzing the weather data.
 
 • We will be using classification algorithms such as Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. Once the model is saved, we integrate it with flask application and also deploy the model in IBM.
-
-https://github.com/IBM-EPBL/IBM-Project-40660-1660632605#project-objectives-dart:~:text=Devi%20K%20J-,Project%20Objectives,-To%20understand%20the
