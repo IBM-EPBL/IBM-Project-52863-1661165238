@@ -24,4 +24,4 @@ PROJECT PREVIEW:
 
 • We will be using classification algorithms such as Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. Once the model is saved, we integrate it with flask application and also deploy the model in IBM.
 
-Project Objectives![image](https://user-images.githubusercontent.com/113618912/198826133-4184b2bf-e247-4c84-9ca3-eac1a8a33a00.png)
+https://github.com/IBM-EPBL/IBM-Project-40660-1660632605#project-objectives-dart:~:text=Devi%20K%20J-,Project%20Objectives,-To%20understand%20the
